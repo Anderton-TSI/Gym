@@ -1,0 +1,5 @@
+Personal -> email:  juan@personal
+Senha : 123
+
+Cliente -> email: anderton@cliente
+senha: 123
